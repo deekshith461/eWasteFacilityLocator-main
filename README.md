@@ -23,7 +23,7 @@ To set up the project locally, follow these steps:
 1. **Download and unzip the file** or clone the repository.
    
    ```bash
-   git clone https://github.com/SudeepRedddy/eWasteFacilityLocater.git
+   git clone https://github.com/deekshith461/eWasteFacilityLocater.git
    ```
 
 2. **Navigate to the frontend directory**:
@@ -48,11 +48,3 @@ To set up the project locally, follow these steps:
 
 You can check out the live website at: [ecorecycle-e.vercel.app](https://ecorecycle-e.vercel.app)
 
-## Contributing
-
-- S Sudeep Reddy
-- K Balaji Yaswanth
-- M Suhas
-- M Phaneesh
-- K Deeksha sai prashanthi
-- P Nandini Reddy
